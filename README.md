@@ -1,4 +1,4 @@
-# Tracking Expense Management System Using Python - Server mySQL - fetching API on Postman
+# Tracking Expense Management System Using Python - Server mySQL - fetching FastAPI using Postman
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
